@@ -1,0 +1,10 @@
+words = ("dog", "cat", "elephant", "lion", "tiger", "giraffe", "zebra", "kangaroo", "koala", "panda", "leopard",
+         "cheetah", "rhinoceros", "hippopotamus", "crocodile", "alligator", "wolf", "fox", "bear", "rabbit", "deer",
+         "moose", "elk", "buffalo", "bison", "gorilla", "chimpanzee", "orangutan", "lemur", "sloth", "anteater",
+         "armadillo", "hedgehog", "porcupine", "bat", "otter", "beaver", "raccoon", "skunk", "badger", "weasel",
+         "wolverine", "hyena", "jaguar", "cougar", "lynx", "bobcat", "ocelot", "meerkat", "mongoose", "platypus",
+         "echidna", "squirrel", "chipmunk", "hamster", "guinea pig", "capybara", "prairie dog", "ferret", "mink",
+         "stoat", "opossum", "possum", "wallaby", "tasmanian devil", "dingo", "ibex", "gazelle", "antelope", "caribou",
+         "yak", "alpaca", "llama", "camel", "vicuna", "tapir", "okapi", "manatee", "dugong", "narwhal", "walrus", "seal",
+         "sea lion", "otter", "penguin", "albatross", "flamingo", "pelican", "stork", "heron", "crane", "toucan", "macaw",
+         "cockatoo", "parrot", "peacock", "ostrich", "emu", "cassowary", "kiwi", "hawk", "eagle", "falcon", "vulture", "owl", "pigeon")
